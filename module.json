@@ -1,0 +1,9 @@
+{
+    "name": "sanity-stress-module",
+    "title": "Sanity and Stress Mechanics",
+    "description": "Implements custom sanity and stress mechanics for RPG gameplay.",
+    "authors": [{"name": "Your Name"}],
+    "version": "1.0.0",
+    "minimumCoreVersion": "9.0",
+    "scripts": ["scripts/sanity-stress.js"]
+  }
